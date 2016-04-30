@@ -6,5 +6,4 @@ const rawCSV = fs.readFileSync(pathToCSV)
 const records = parse(rawCSV, {columns: true})
 
 module.exports = records
-console.log(records[2])
 
