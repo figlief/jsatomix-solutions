@@ -1,6 +1,6 @@
 {
   "name": "jsatomix-solutions",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Human generated solutions for jsatomix levels.",
   "main": "index.js",
   "scripts": {
